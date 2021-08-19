@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-(b@^u4!59+o(697=s!wzlny69hotvk&q6hqy^5h#35r47*12m1
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
-
+print("ran")
 ALLOWED_HOSTS = ['tindyc-boutique-ado.herokuapp.com', 'localhost']
 
 
